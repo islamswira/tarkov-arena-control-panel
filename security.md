@@ -235,3 +235,6 @@ noticed — both by other players and by the anti-cheat.
 | A feature request | Open an issue with the `enhancement` label |
 
 <p align="center"><sub>tarkov-arena-control-panel · Updated 2026-10-24 · Shared under the MIT License</sub></p>
+
+
+*Last updated: 2026-10-24*
