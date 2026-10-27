@@ -234,4 +234,4 @@ noticed — both by other players and by the anti-cheat.
 | A setup question | Read the Quick Start above |
 | A feature request | Open an issue with the `enhancement` label |
 
-<p align="center"><sub>tarkov-arena-control-panel · Updated 2026-10-26 · Shared under the MIT License</sub></p>
+<p align="center"><sub>tarkov-arena-control-panel · Updated 2026-10-27 · Shared under the MIT License</sub></p>
